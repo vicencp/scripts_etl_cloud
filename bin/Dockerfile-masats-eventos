@@ -1,0 +1,12 @@
+FROM git.datik.io:5005/ipanel-backend/ms_reports/report_framework:lite
+WORKDIR /root/
+
+COPY \
+    alarmas_masats.sh \
+    alarms_ia.sh \
+    crear-eventos-ipanel.sh \
+    /root/
+
+COPY publish2sns.py /root/bin/
+
+CMD /root/crear-eventos-ipanel.sh

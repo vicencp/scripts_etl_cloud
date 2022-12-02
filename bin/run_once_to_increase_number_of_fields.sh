@@ -1,0 +1,1 @@
+curl -s 'https://search-predictivo-masats-5aml7qgszk3zltmyhwrwhqi4p4.eu-central-1.es.amazonaws.com/_cat/indices' | awk '{print $3}' | parallel 'curl -XPUT search-predictivo-masats-5aml7qgszk3zltmyhwrwhqi4p4.eu-central-1.es.amazonaws.com/{}/_settings -H content-type:application/json -d "{\"index.mapping.total_fields.limit\": 13333}" ' |jq .

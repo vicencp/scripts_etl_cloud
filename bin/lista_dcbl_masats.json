@@ -1,0 +1,736 @@
+[
+  {
+    "codigo": "EMT_102",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662569",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_103",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662567",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_104",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256B",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_105",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256E",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_106",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256F",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_107",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256A",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_108",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662564",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_109",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662566",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_110",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256D",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_111",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662563",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_112",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256C",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_113",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662565",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_114",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662562",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_115",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662571",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_116",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662570",
+    "desde": "2018-12-03"
+  },
+  {
+    "codigo": "EMT_117",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662570",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_118",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566433A",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_119",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566432E",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_120",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256F",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_121",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256D",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_122",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664340",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_122",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664BAE",
+    "desde": "2020-07-15"
+  },
+  {
+    "codigo": "EMT_123",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664320",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_123",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45661FF8",
+    "desde": "2021-02-27"
+  },
+  {
+    "codigo": "EMT_124",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664346",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_124",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664BB0",
+    "desde": "2020-07-15"
+  },
+  {
+    "codigo": "EMT_125",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662563",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_126",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662564",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_127",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662562",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_128",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256C",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_129",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256B",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_130",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662567",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_130",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664BAF",
+    "desde": "2020-07-15"
+  },
+  {
+    "codigo": "EMT_131",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662571",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_131",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664B81",
+    "desde": "2020-07-15"
+  },
+  {
+    "codigo": "EMT_132",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256A",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_133",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C4566256E",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_134",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662569",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_135",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662565",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "EMT_136",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45662566",
+    "desde": "2019-11-27"
+  },
+  {
+    "codigo": "Masats_15",
+    "comment": "lab DCBL",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C4566226C",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1618",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45664AD6",
+    "desde": "2020-07-07"
+  },
+  {
+    "codigo": "TMB_1618",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622E6",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1619",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45661B97",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1619",
+    "comment": "KO?",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622A7",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1620",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C4566204C",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1620",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622BC",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1621",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662020",
+    "desde": "2020-06-27"
+  },
+  {
+    "codigo": "TMB_1621",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662270",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1622",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662261",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1622",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45664AD4",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1623",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662264",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1623",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45664AD2",
+    "desde": "2020-07-08"
+  },
+  {
+    "codigo": "TMB_1624",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662041",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1624",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662265",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1625",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622B1",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1625",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456642FF",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1625",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45661F38",
+    "desde": "2021-02-27"
+  },
+  {
+    "codigo": "TMB_1626",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662272",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1626",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45664AD5",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1627",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622E5",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1628",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622E8",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1628",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662058",
+    "desde": "2020-07-09"
+  },
+  {
+    "codigo": "TMB_1629",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C456622B2",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1629",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662047",
+    "desde": "2020-07-08"
+  },
+  {
+    "codigo": "TMB_1630",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662294",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1630",
+    "comment": "lab DCBL",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C4566226C",
+    "desde": "2019-04-04"
+  },
+  {
+    "codigo": "TMB_1631",
+    "comment": "KO",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C45662293",
+    "desde": "2018-07-19"
+  },
+  {
+    "codigo": "TMB_1631",
+    "equipos": "p1|p2|p3|rt1",
+    "serial": "F85C4566205E",
+    "desde": "2020-07-08"
+  },
+  {
+    "codigo": "EMT_117",
+    "equipos": "p1|p2|re1",
+    "serial": "F85C45664AD7",
+    "desde": "2020-10-10"
+  },
+  {
+    "codigo": "MS_02",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BF1",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_03",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BD2",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_01",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BD4",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_04",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BD5",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_05",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BF0",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_06",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BD1",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_07",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BD3",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_08",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BA4",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_09",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B9F",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_10",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B92",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_11",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B7D",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_12",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BD0",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_13",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B78",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_14",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BC3",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_15",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B6B",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_16",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BBE",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_17",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B67",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_18",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BA1",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_19",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B94",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_20",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B8F",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_21",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B7A",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_22",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BC5",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_23",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B6D",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_24",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BC0",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_25",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B68",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_26",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B9E",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_27",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BA3",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_28",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B7C",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_29",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B91",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_30",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BCF",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_31",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B77",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_32",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BC2",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_33",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B6A",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_34",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BA0",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_35",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BA5",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_36",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B93",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_37",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B8E",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_38",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B79",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_39",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B76",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_40",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BC4",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_41",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B6C",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_42",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BBF",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_43",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B66",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_44",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BA2",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_45",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BCE",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_46",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B95",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_47",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B90",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_48",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B7B",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_49",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664B69",
+    "desde": "2020-11-20"
+  },
+  {
+    "codigo": "MS_50",
+    "equipos": "p1|p2|p3",
+    "serial": "F85C45664BC1",
+    "desde": "2020-11-20"
+  }
+]

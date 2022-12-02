@@ -1,0 +1,62 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: masats-eventos
+  namespace: ms-adhoc-reports
+spec:
+  concurrencyPolicy: Allow
+  failedJobsHistoryLimit: 1
+  jobTemplate:
+    spec:
+      backoffLimit: 1
+      completions: 1
+      template:
+        spec:
+          containers:
+          - args:
+            - -c
+            - sh crear-eventos-ipanel.sh
+            command:
+            - /bin/sh
+            env:
+            - name: drive_id
+              value: 1c47i3qjQ371jLmPtxDR1oUklCpat-XrM
+            - name: profile
+              value: prod
+            envFrom:
+            - secretRef:
+                name: aws-s3-rw
+                optional: false
+            image: git.datik.io:5005/ingenieria/masats/etl-scripts:dev
+            imagePullPolicy: Always
+            name: masats-eventos
+            resources: {}
+            securityContext:
+              capabilities: {}
+            stdin: true
+            terminationMessagePath: /dev/termination-log
+            terminationMessagePolicy: File
+            tty: true
+            volumeMounts:
+            - mountPath: /root/.mysql/
+              name: mycnf
+              readOnly: true
+          dnsPolicy: ClusterFirst
+          imagePullSecrets:
+          - name: git-datik-io
+          restartPolicy: Never
+          schedulerName: default-scheduler
+          securityContext: {}
+          terminationGracePeriodSeconds: 30
+          volumes:
+          - name: mycnf
+            secret:
+              defaultMode: 420
+              items:
+              - key: .my.cnf
+                path: .my.cnf
+              optional: false
+              secretName: mycnf-reporting
+  schedule: 37 13 * * *
+  successfulJobsHistoryLimit: 3
+  suspend: false

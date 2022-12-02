@@ -1,0 +1,11 @@
+PATH=/home/ubuntu/bin:/usr/sbin:/usr/bin:/sbin:/bin
+ES_URL=https://search-predictivo-masats-5aml7qgszk3zltmyhwrwhqi4p4.eu-central-1.es.amazonaws.com
+
+# m h     dom mon dow command
+   0 */12  *   *   *  sync_consolidated.sh  >/dev/null 2>&1
+  30  *    *   *   *  time sync_s3_data.sh  > ~/log/sync_s3_data.log  2>&1
+  13 */6   *   *   *  forcemerge.sh >  ~/log/forcemerge.log 2>&1
+  55  1    *   *   *  deletebyquery.sh > ~/log/last_delete_by_query.log 2>&1
+ */2  *    *   *   *  masats_limits_query.sh > ~/log/last_limits_query.log 2>&1
+  12  *    *   *   *  rm -f /home/ubuntu/percentiles_conf.json
+
