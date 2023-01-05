@@ -24,14 +24,14 @@ export const SimplePanel: React.FC<Props> = ({ options, data, width, height, id 
       .flatMap(x => x);
     flat_points.sort((i1, i2) => i1.n - i2.n);
     console.log(flat_points);
-    var margin = { top: 10, right: 30, bottom: 30, left: 60 },
+    const margin = { top: 10, right: 30, bottom: 30, left: 60 },
       rwidth = width - margin.left - margin.right,
       rheight = height - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
     const panelid = 'supersvgviz---' + id;
     d3.select('#' + panelid).remove();
-    var svg = d3
+    const svg = d3
       .select(svgContainer.current)
       .append('svg')
       .attr('id', panelid)
@@ -42,14 +42,14 @@ export const SimplePanel: React.FC<Props> = ({ options, data, width, height, id 
 
     // group the data: I want to draw one line per group
     type L = { _id: string; n: Number; v: Number };
-    var sumstat = d3
+    const sumstat = d3
       .nest<L>()
       .key(d => d._id)
       .entries(flat_points);
     // nest function allows to group the calculation per level of a factor
 
     // Add X axis --> it is a date format
-    var x = d3
+    const x = d3
       .scaleLinear()
       .domain([d3.min(flat_points, d => d.n) as number, d3.max(flat_points, d => d.n) as number])
       .range([0, rwidth]);
@@ -59,7 +59,7 @@ export const SimplePanel: React.FC<Props> = ({ options, data, width, height, id 
       .call(d3.axisBottom(x).ticks(5));
 
     // Add Y axis
-    var y = d3
+    const y = d3
       .scaleLinear()
       .domain([0, d3.max(flat_points, d => d.v) as number])
       .range([rheight, 0]);
